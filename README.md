@@ -1,1 +1,1 @@
-Find a method for easily converting docx and PDF files to epub so we can get our educationla materials in mobile formats suitable for our stdents. Current methods of conversiom struggle with formatting issues columns, tables and images. 
+Find a method for easily converting docx and PDF files to epub so we can get our educational materials in mobile formats suitable for our students. Current methods of conversion struggle with formatting issues columns, tables and images. 

@@ -1,1 +1,2 @@
 Find a method for easily converting docx and PDF files to epub so we can get our educational materials in mobile formats suitable for our students. Current methods of conversion struggle with formatting issues columns, tables and images. 
+I got some suggestions and scripts by asking Claude AI to do the task and they are in the zip file in this repository. I have no idea if they work as I have not tested them since I am not a programmer. Good luck!
